@@ -1,0 +1,16 @@
+main {
+int a ;
+int b ;
+int c ;
+print ( "valor 1" ) ;
+scan ( a ) ;
+print ( "valor 2" ) ;
+scan ( b ) ;
+if ( a < b ) {
+frciclo ( c ; c <= 10 ; c++ ) {
+print ( c ) ;
+} else { 
+d = a * b ;
+print ( d ) ;
+}
+}
